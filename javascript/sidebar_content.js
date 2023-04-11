@@ -23,7 +23,7 @@ document.write('      <div>');
 document.write('          <ul>');
 document.write('              <li><a href="/blog">Blog</a></li>');
 document.write('              <li><a href="/contact">Contact</a></li>');
-document.write('              <li><a href="/about">About</a></li>');
+document.write('              <li><a href="/pages/about.html">About</a></li>');
 document.write('      </div>');
 document.write('');
 document.write('      <div>');
