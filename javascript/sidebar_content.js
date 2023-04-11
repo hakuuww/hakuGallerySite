@@ -3,12 +3,11 @@ document.write('  <div class="sidebar">');
 document.write('');
 document.write('');
 document.write('      <div>');
-document.write('          <img src="/img/hakuAvatar.jpeg" alt="Haku\'s avatar" class="hakuAvatarImg">');
+document.write('          <img src="https://hakuuww.github.io/hakuGallerySite/img/hakuAvatar.jpeg" alt="Haku\'s avatar" class="hakuAvatarImg">');
 document.write('      </div>');
 document.write('');
-
 document.write('');
-document.write('      <li><a href="/">Overview</a></li>');
+document.write('      <li><a href="/hakuGallerySite">Overview</a></li>');
 document.write('');
 document.write('      <div class="dropdown">');
 document.write('          <button onclick="myFunction(\'dropdown1\')" class="dropbtn">&#xFE40 Street</button>');
